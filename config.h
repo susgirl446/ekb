@@ -18,7 +18,7 @@ struct keymap_t {
 
 struct keymap_t map[] = {
 
-    };
+};
 
 
 /*
