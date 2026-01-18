@@ -6,11 +6,7 @@ sources = [
 ]
 
 ccargs = [
-    '-Wextra',
-    '-Wall',
-    '-Werror',
-    '-std=c99',
-    '-Wno-unused-variable'
+    '-std=gnu11'
 ]
 
 
