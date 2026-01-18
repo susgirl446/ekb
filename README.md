@@ -2,10 +2,22 @@
 small keyboard remapping program with support for command execution upon key press
 
 ## Building
-`
+```
 meson setup build
 
 meson compile -C build
 
 meson install -C build
-`
+```
+
+## License
+Copyright 2025 Hannah S.
+You can copy, modify and share this software under the following conditions:
+
+    Any modifications to this software must be published under the same license and must be properly marked as modified versions
+
+    You are not allowed to use the name of this software or its developers/contributors to endorse a derived product without explicit permission by the copyright holder
+
+    You must include this copyright notice alongside binary distributions of this software
+
+This software is provided as-is, i (the copyright holder) am not responsible for any damage caused by it
